@@ -1,0 +1,834 @@
+[
+  {
+    "pokemon_id": 393, 
+    "expiration_timestamp_ms": 1513100495000, 
+    "longitude": -73.98998160916284, 
+    "latitude": 40.999179297507894, 
+    "spawn_point_id": "9926759330948841472", 
+    "encounter_id": 9926759332461941967
+  }, 
+  {
+    "pokemon_id": 452, 
+    "expiration_timestamp_ms": 1513100648000, 
+    "longitude": -73.99071619173834, 
+    "latitude": 40.999283657544694, 
+    "spawn_point_id": "9926759330277752832", 
+    "encounter_id": 9926759331790853480
+  }, 
+  {
+    "pokemon_id": 26, 
+    "expiration_timestamp_ms": 1513100652000, 
+    "longitude": -73.99071619173834, 
+    "latitude": 40.99866875309832, 
+    "spawn_point_id": "9926759330143535104", 
+    "encounter_id": 9926759331656635756
+  }, 
+  {
+    "pokemon_id": 345, 
+    "expiration_timestamp_ms": 1513100534000, 
+    "longitude": -73.99145077150125, 
+    "latitude": 40.99938801218835, 
+    "spawn_point_id": "9926759330411970560", 
+    "encounter_id": 9926759331925071094
+  }, 
+  {
+    "pokemon_id": 477, 
+    "expiration_timestamp_ms": 1513100918000, 
+    "longitude": -73.99145077150125, 
+    "latitude": 40.99815819606232, 
+    "spawn_point_id": "9926759329875099648", 
+    "encounter_id": 9926759331388200566
+  }, 
+  {
+    "pokemon_id": 161, 
+    "expiration_timestamp_ms": 1513100489000, 
+    "longitude": -73.99071619173834, 
+    "latitude": 41.00112833126205, 
+    "spawn_point_id": "9926759333096325120", 
+    "encounter_id": 9926759334609425609
+  }, 
+  {
+    "pokemon_id": 367, 
+    "expiration_timestamp_ms": 1513100269000, 
+    "longitude": -73.98924702377508, 
+    "latitude": 41.00153448130855, 
+    "spawn_point_id": "9926759331888365568", 
+    "encounter_id": 9926759333401465837
+  }, 
+  {
+    "pokemon_id": 15, 
+    "expiration_timestamp_ms": 1513100732000, 
+    "longitude": -73.99145077150125, 
+    "latitude": 41.0006178018999, 
+    "spawn_point_id": "9926759333364760576", 
+    "encounter_id": 9926759334877861308
+  }, 
+  {
+    "pokemon_id": 475, 
+    "expiration_timestamp_ms": 1513100881000, 
+    "longitude": -73.99071619173834, 
+    "latitude": 41.000513446626655, 
+    "spawn_point_id": "9926759333230542848", 
+    "encounter_id": 9926759334743643729
+  }, 
+  {
+    "pokemon_id": 433, 
+    "expiration_timestamp_ms": 1513100935000, 
+    "longitude": -73.98998160916284, 
+    "latitude": 41.000409085960214, 
+    "spawn_point_id": "9926759331485712384", 
+    "encounter_id": 9926759332998813319
+  }, 
+  {
+    "pokemon_id": 277, 
+    "expiration_timestamp_ms": 1513100493000, 
+    "longitude": -73.99218534845119, 
+    "latitude": 41.00010725991129, 
+    "spawn_point_id": "9926759336317550592", 
+    "encounter_id": 9926759337830651085
+  }, 
+  {
+    "pokemon_id": 486, 
+    "expiration_timestamp_ms": 1513100503000, 
+    "longitude": -73.9929199225878, 
+    "latitude": 40.9995967052963, 
+    "spawn_point_id": "9926759336585986048", 
+    "encounter_id": 9926759338099086551
+  }, 
+  {
+    "pokemon_id": 198, 
+    "expiration_timestamp_ms": 1513100711000, 
+    "longitude": -73.9929199225878, 
+    "latitude": 40.9995967052963, 
+    "spawn_point_id": "9926759336585986048", 
+    "encounter_id": 9926759338099086759
+  }, 
+  {
+    "pokemon_id": 180, 
+    "expiration_timestamp_ms": 1513100555000, 
+    "longitude": -73.99218534845119, 
+    "latitude": 40.99949236143887, 
+    "spawn_point_id": "9926759336451768320", 
+    "encounter_id": 9926759337964868875
+  }, 
+  {
+    "pokemon_id": 412, 
+    "expiration_timestamp_ms": 1513100664000, 
+    "longitude": -73.99365449391071, 
+    "latitude": 41.00031594286263, 
+    "spawn_point_id": "9926759336049115136", 
+    "encounter_id": 9926759337562215800
+  }, 
+  {
+    "pokemon_id": 340, 
+    "expiration_timestamp_ms": 1513101073000, 
+    "longitude": -73.99365449391071, 
+    "latitude": 40.99847122574556, 
+    "spawn_point_id": "9926759337257074688", 
+    "encounter_id": 9926759338770175761
+  }, 
+  {
+    "pokemon_id": 297, 
+    "expiration_timestamp_ms": 1513100286000, 
+    "longitude": -73.99218534845119, 
+    "latitude": 40.997647626399946, 
+    "spawn_point_id": "9926759339807211520", 
+    "encounter_id": 9926759341320311806
+  }, 
+  {
+    "pokemon_id": 472, 
+    "expiration_timestamp_ms": 1513100793000, 
+    "longitude": -73.99365449391071, 
+    "latitude": 40.997241381316094, 
+    "spawn_point_id": "9926759338062381056", 
+    "encounter_id": 9926759339575481849
+  }, 
+  {
+    "pokemon_id": 110, 
+    "expiration_timestamp_ms": 1513100861000, 
+    "longitude": -73.99438906241959, 
+    "latitude": 40.99673078069319, 
+    "spawn_point_id": "9926759338330816512", 
+    "encounter_id": 9926759339843917373
+  }, 
+  {
+    "pokemon_id": 243, 
+    "expiration_timestamp_ms": 1513100835000, 
+    "longitude": -73.99365449391071, 
+    "latitude": 40.99662644919622, 
+    "spawn_point_id": "9926759338733469696", 
+    "encounter_id": 9926759340246570531
+  }, 
+  {
+    "pokemon_id": 422, 
+    "expiration_timestamp_ms": 1513100505000, 
+    "longitude": -73.99071619173834, 
+    "latitude": 40.99682400013874, 
+    "spawn_point_id": "9926759340209864704", 
+    "encounter_id": 9926759341722965209
+  }, 
+  {
+    "pokemon_id": 461, 
+    "expiration_timestamp_ms": 1513100658000, 
+    "longitude": -73.98924702377508, 
+    "latitude": 40.996000346962354, 
+    "spawn_point_id": "9926759341149388800", 
+    "encounter_id": 9926759342662489458
+  }, 
+  {
+    "pokemon_id": 320, 
+    "expiration_timestamp_ms": 1513100812000, 
+    "longitude": -73.98924702377508, 
+    "latitude": 40.996615277191836, 
+    "spawn_point_id": "9926759340746735616", 
+    "encounter_id": 9926759342259836428
+  }, 
+  {
+    "pokemon_id": 286, 
+    "expiration_timestamp_ms": 1513100717000, 
+    "longitude": -73.98998160916284, 
+    "latitude": 40.99671964136183, 
+    "spawn_point_id": "9926759340880953344", 
+    "encounter_id": 9926759342394054061
+  }, 
+  {
+    "pokemon_id": 128, 
+    "expiration_timestamp_ms": 1513100514000, 
+    "longitude": -73.99145077150125, 
+    "latitude": 40.99631342234779, 
+    "spawn_point_id": "9926759341820477440", 
+    "encounter_id": 9926759343333577954
+  }, 
+  {
+    "pokemon_id": 87, 
+    "expiration_timestamp_ms": 1513100997000, 
+    "longitude": -73.99071619173834, 
+    "latitude": 40.996209069279026, 
+    "spawn_point_id": "9926759341686259712", 
+    "encounter_id": 9926759343199360709
+  }, 
+  {
+    "pokemon_id": 74, 
+    "expiration_timestamp_ms": 1513100309000, 
+    "longitude": -73.98998160916284, 
+    "latitude": 40.99425987956549, 
+    "spawn_point_id": "9926759343028436992", 
+    "encounter_id": 9926759344541537301
+  }, 
+  {
+    "pokemon_id": 314, 
+    "expiration_timestamp_ms": 1513100624000, 
+    "longitude": -73.99145077150125, 
+    "latitude": 40.99508354018886, 
+    "spawn_point_id": "9926759342088912896", 
+    "encounter_id": 9926759343602013520
+  }, 
+  {
+    "pokemon_id": 186, 
+    "expiration_timestamp_ms": 1513100621000, 
+    "longitude": -73.98924702377508, 
+    "latitude": 40.994770466694504, 
+    "spawn_point_id": "9926759342760001536", 
+    "encounter_id": 9926759344273102157
+  }, 
+  {
+    "pokemon_id": 242, 
+    "expiration_timestamp_ms": 1513100518000, 
+    "longitude": -73.99071619173834, 
+    "latitude": 40.993749279810125, 
+    "spawn_point_id": "9926759343833743360", 
+    "encounter_id": 9926759345346843878
+  }, 
+  {
+    "pokemon_id": 393, 
+    "expiration_timestamp_ms": 1513100764000, 
+    "longitude": -73.98924702377508, 
+    "latitude": 40.99354056001541, 
+    "spawn_point_id": "9926759343296872448", 
+    "encounter_id": 9926759344809973212
+  }, 
+  {
+    "pokemon_id": 194, 
+    "expiration_timestamp_ms": 1513100654000, 
+    "longitude": -73.99071619173834, 
+    "latitude": 40.9949791877504, 
+    "spawn_point_id": "9926759342491566080", 
+    "encounter_id": 9926759344004666734
+  }, 
+  {
+    "pokemon_id": 61, 
+    "expiration_timestamp_ms": 1513101128000, 
+    "longitude": -73.99145077150125, 
+    "latitude": 40.99385363161806, 
+    "spawn_point_id": "9926759343967961088", 
+    "encounter_id": 9926759345481062216
+  }, 
+  {
+    "pokemon_id": 130, 
+    "expiration_timestamp_ms": 1513100267000, 
+    "longitude": -73.9929199225878, 
+    "latitude": 40.99406231905526, 
+    "spawn_point_id": "9926759344504832000", 
+    "encounter_id": 9926759346017932267
+  }, 
+  {
+    "pokemon_id": 266, 
+    "expiration_timestamp_ms": 1513100232000, 
+    "longitude": -73.99218534845119, 
+    "latitude": 40.99334301352817, 
+    "spawn_point_id": "9926759344236396544", 
+    "encounter_id": 9926759345749496776
+  }, 
+  {
+    "pokemon_id": 394, 
+    "expiration_timestamp_ms": 1513100125000, 
+    "longitude": -73.9973273083072, 
+    "latitude": 40.994073285228474, 
+    "spawn_point_id": "9926759347054968832", 
+    "encounter_id": 9926759348568068957
+  }, 
+  {
+    "pokemon_id": 256, 
+    "expiration_timestamp_ms": 1513100256000, 
+    "longitude": -73.99659275105819, 
+    "latitude": 40.99396897687795, 
+    "spawn_point_id": "9926759346920751104", 
+    "encounter_id": 9926759348433851360
+  }, 
+  {
+    "pokemon_id": 418, 
+    "expiration_timestamp_ms": 1513100836000, 
+    "longitude": -73.99585819099369, 
+    "latitude": 40.99570954156878, 
+    "spawn_point_id": "9926759347994492928", 
+    "encounter_id": 9926759349507593764
+  }, 
+  {
+    "pokemon_id": 334, 
+    "expiration_timestamp_ms": 1513100553000, 
+    "longitude": -73.99512362811402, 
+    "latitude": 40.99437530976488, 
+    "spawn_point_id": "9926759346518097920", 
+    "encounter_id": 9926759348031198473
+  }, 
+  {
+    "pokemon_id": 290, 
+    "expiration_timestamp_ms": 1513100890000, 
+    "longitude": -73.99659275105819, 
+    "latitude": 40.994583943274236, 
+    "spawn_point_id": "9926759347323404288", 
+    "encounter_id": 9926759348836505178
+  }, 
+  {
+    "pokemon_id": 323, 
+    "expiration_timestamp_ms": 1513100236000, 
+    "longitude": -73.99659275105819, 
+    "latitude": 40.997043742827046, 
+    "spawn_point_id": "9926759350276194304", 
+    "encounter_id": 9926759351789294540
+  }, 
+  {
+    "pokemon_id": 314, 
+    "expiration_timestamp_ms": 1513100186000, 
+    "longitude": -73.99585819099369, 
+    "latitude": 40.99816928703451, 
+    "spawn_point_id": "9926759349336670208", 
+    "encounter_id": 9926759350849770394
+  }, 
+  {
+    "pokemon_id": 76, 
+    "expiration_timestamp_ms": 1513100362000, 
+    "longitude": -73.99512362811402, 
+    "latitude": 40.99745003954711, 
+    "spawn_point_id": "9926759349068234752", 
+    "encounter_id": 9926759350581335114
+  }, 
+  {
+    "pokemon_id": 88, 
+    "expiration_timestamp_ms": 1513100657000, 
+    "longitude": -73.99512362811402, 
+    "latitude": 40.99622016744407, 
+    "spawn_point_id": "9926759348531363840", 
+    "encounter_id": 9926759350044464497
+  }, 
+  {
+    "pokemon_id": 66, 
+    "expiration_timestamp_ms": 1513100973000, 
+    "longitude": -73.99659275105819, 
+    "latitude": 40.9976586762067, 
+    "spawn_point_id": "9926759349605105664", 
+    "encounter_id": 9926759351118206637
+  }, 
+  {
+    "pokemon_id": 409, 
+    "expiration_timestamp_ms": 1513100874000, 
+    "longitude": -73.99585819099369, 
+    "latitude": 40.996939427508565, 
+    "spawn_point_id": "9926759348799799296", 
+    "encounter_id": 9926759350312900170
+  }, 
+  {
+    "pokemon_id": 300, 
+    "expiration_timestamp_ms": 1513100577000, 
+    "longitude": -73.99879641435722, 
+    "latitude": 40.99797159075026, 
+    "spawn_point_id": "9926759351618371584", 
+    "encounter_id": 9926759353131472161
+  }, 
+  {
+    "pokemon_id": 109, 
+    "expiration_timestamp_ms": 1513100756000, 
+    "longitude": -73.99953096315751, 
+    "latitude": 40.997460950173654, 
+    "spawn_point_id": "9926759352423677952", 
+    "encounter_id": 9926759353936778708
+  }, 
+  {
+    "pokemon_id": 462, 
+    "expiration_timestamp_ms": 1513100584000, 
+    "longitude": -73.99953096315751, 
+    "latitude": 40.997460950173654, 
+    "spawn_point_id": "9926759352423677952", 
+    "encounter_id": 9926759353936778536
+  }, 
+  {
+    "pokemon_id": 121, 
+    "expiration_timestamp_ms": 1513100614000, 
+    "longitude": -73.99806186274033, 
+    "latitude": 40.99848221870083, 
+    "spawn_point_id": "9926759351349936128", 
+    "encounter_id": 9926759352863036742
+  }, 
+  {
+    "pokemon_id": 10, 
+    "expiration_timestamp_ms": 1513100504000, 
+    "longitude": -73.99806186274033, 
+    "latitude": 40.99725235728574, 
+    "spawn_point_id": "9926759351081500672", 
+    "encounter_id": 9926759352594601176
+  }, 
+  {
+    "pokemon_id": 5, 
+    "expiration_timestamp_ms": 1513100669000, 
+    "longitude": -73.99879641435722, 
+    "latitude": 40.99612676796666, 
+    "spawn_point_id": "9926759353363202048", 
+    "encounter_id": 9926759354876302717
+  }, 
+  {
+    "pokemon_id": 234, 
+    "expiration_timestamp_ms": 1513100567000, 
+    "longitude": -73.99879641435722, 
+    "latitude": 40.994896853093366, 
+    "spawn_point_id": "9926759353900072960", 
+    "encounter_id": 9926759355413173527
+  }, 
+  {
+    "pokemon_id": 213, 
+    "expiration_timestamp_ms": 1513100565000, 
+    "longitude": -74.00026550914085, 
+    "latitude": 40.99572039404492, 
+    "spawn_point_id": "9926759352960548864", 
+    "encounter_id": 9926759354473649429
+  }, 
+  {
+    "pokemon_id": 446, 
+    "expiration_timestamp_ms": 1513100309000, 
+    "longitude": -73.99806186274033, 
+    "latitude": 41.00032696129472, 
+    "spawn_point_id": "9926759375911780352", 
+    "encounter_id": 9926759377424880661
+  }, 
+  {
+    "pokemon_id": 136, 
+    "expiration_timestamp_ms": 1513100396000, 
+    "longitude": -73.99879641435722, 
+    "latitude": 41.00043126200866, 
+    "spawn_point_id": "9926759376045998080", 
+    "encounter_id": 9926759377559098476
+  }, 
+  {
+    "pokemon_id": 324, 
+    "expiration_timestamp_ms": 1513100905000, 
+    "longitude": -73.99953096315751, 
+    "latitude": 40.999305734279254, 
+    "spawn_point_id": "9926759375106473984", 
+    "encounter_id": 9926759376619574889
+  }, 
+  {
+    "pokemon_id": 464, 
+    "expiration_timestamp_ms": 1513100800000, 
+    "longitude": -73.99806186274033, 
+    "latitude": 40.999097139502716, 
+    "spawn_point_id": "9926759375643344896", 
+    "encounter_id": 9926759377156445696
+  }, 
+  {
+    "pokemon_id": 12, 
+    "expiration_timestamp_ms": 1513100451000, 
+    "longitude": -73.99585819099369, 
+    "latitude": 40.998784206892054, 
+    "spawn_point_id": "9926759377656610816", 
+    "encounter_id": 9926759379169711267
+  }, 
+  {
+    "pokemon_id": 79, 
+    "expiration_timestamp_ms": 1513100823000, 
+    "longitude": -73.99659275105819, 
+    "latitude": 40.9988885231551, 
+    "spawn_point_id": "9926759377253957632", 
+    "encounter_id": 9926759378767058455
+  }, 
+  {
+    "pokemon_id": 243, 
+    "expiration_timestamp_ms": 1513100913000, 
+    "longitude": -73.99659275105819, 
+    "latitude": 40.999503436723664, 
+    "spawn_point_id": "9926759377388175360", 
+    "encounter_id": 9926759378901276273
+  }, 
+  {
+    "pokemon_id": 138, 
+    "expiration_timestamp_ms": 1513100600000, 
+    "longitude": -73.9973273083072, 
+    "latitude": 40.99899283402531, 
+    "spawn_point_id": "9926759377119739904", 
+    "encounter_id": 9926759378632840504
+  }, 
+  {
+    "pokemon_id": 240, 
+    "expiration_timestamp_ms": 1513101035000, 
+    "longitude": -73.99585819099369, 
+    "latitude": 41.00062892684188, 
+    "spawn_point_id": "9926759378327699456", 
+    "encounter_id": 9926759379840800491
+  }, 
+  {
+    "pokemon_id": 370, 
+    "expiration_timestamp_ms": 1513101106000, 
+    "longitude": -73.99659275105819, 
+    "latitude": 41.000118343688335, 
+    "spawn_point_id": "9926759376717086720", 
+    "encounter_id": 9926759378230187826
+  }, 
+  {
+    "pokemon_id": 269, 
+    "expiration_timestamp_ms": 1513100534000, 
+    "longitude": -73.99659275105819, 
+    "latitude": 40.99027903983954, 
+    "spawn_point_id": "9926760026062454784", 
+    "encounter_id": 9926760027575555318
+  }, 
+  {
+    "pokemon_id": 30, 
+    "expiration_timestamp_ms": 1513100374000, 
+    "longitude": -73.9973273083072, 
+    "latitude": 40.990998352626754, 
+    "spawn_point_id": "9926760026330890240", 
+    "encounter_id": 9926760027843990614
+  }, 
+  {
+    "pokemon_id": 62, 
+    "expiration_timestamp_ms": 1513100452000, 
+    "longitude": -73.99512362811402, 
+    "latitude": 40.99068541612702, 
+    "spawn_point_id": "9926760025659801600", 
+    "encounter_id": 9926760027172902052
+  }, 
+  {
+    "pokemon_id": 109, 
+    "expiration_timestamp_ms": 1513100577000, 
+    "longitude": -73.99585819099369, 
+    "latitude": 40.98955971568832, 
+    "spawn_point_id": "9926760025257148416", 
+    "encounter_id": 9926760026770248993
+  }, 
+  {
+    "pokemon_id": 24, 
+    "expiration_timestamp_ms": 1513100648000, 
+    "longitude": -73.99659275105819, 
+    "latitude": 40.989664027223895, 
+    "spawn_point_id": "9926760026733543424", 
+    "encounter_id": 9926760028246644072
+  }, 
+  {
+    "pokemon_id": 68, 
+    "expiration_timestamp_ms": 1513100703000, 
+    "longitude": -74.00026550914085, 
+    "latitude": 40.99080051820827, 
+    "spawn_point_id": "9926760028344156160", 
+    "encounter_id": 9926760029857256863
+  }, 
+  {
+    "pokemon_id": 487, 
+    "expiration_timestamp_ms": 1513100498000, 
+    "longitude": -74.00026550914085, 
+    "latitude": 40.99018550401536, 
+    "spawn_point_id": "9926760027941502976", 
+    "encounter_id": 9926760029454603474
+  }, 
+  {
+    "pokemon_id": 430, 
+    "expiration_timestamp_ms": 1513100355000, 
+    "longitude": -73.99879641435722, 
+    "latitude": 40.99059194303799, 
+    "spawn_point_id": "9926760028881027072", 
+    "encounter_id": 9926760030394127427
+  }, 
+  {
+    "pokemon_id": 358, 
+    "expiration_timestamp_ms": 1513100352000, 
+    "longitude": -73.99879641435722, 
+    "latitude": 40.99120694999743, 
+    "spawn_point_id": "9926760028746809344", 
+    "encounter_id": 9926760030259909696
+  }, 
+  {
+    "pokemon_id": 208, 
+    "expiration_timestamp_ms": 1513100242000, 
+    "longitude": -73.99806186274033, 
+    "latitude": 40.99233264748825, 
+    "spawn_point_id": "9926760029417897984", 
+    "encounter_id": 9926760030930998226
+  }, 
+  {
+    "pokemon_id": 382, 
+    "expiration_timestamp_ms": 1513100544000, 
+    "longitude": -73.99806186274033, 
+    "latitude": 40.99294763432396, 
+    "spawn_point_id": "9926760031162728448", 
+    "encounter_id": 9926760032675828992
+  }, 
+  {
+    "pokemon_id": 341, 
+    "expiration_timestamp_ms": 1513100676000, 
+    "longitude": -73.99806186274033, 
+    "latitude": 40.99233264748825, 
+    "spawn_point_id": "9926760029417897984", 
+    "encounter_id": 9926760030930998660
+  }, 
+  {
+    "pokemon_id": 348, 
+    "expiration_timestamp_ms": 1513100732000, 
+    "longitude": -74.00026550914085, 
+    "latitude": 40.99264552117016, 
+    "spawn_point_id": "9926760030088986624", 
+    "encounter_id": 9926760031602087356
+  }, 
+  {
+    "pokemon_id": 295, 
+    "expiration_timestamp_ms": 1513100985000, 
+    "longitude": -73.99806186274033, 
+    "latitude": 40.99233264748825, 
+    "spawn_point_id": "9926760029417897984", 
+    "encounter_id": 9926760030930998969
+  }, 
+  {
+    "pokemon_id": 109, 
+    "expiration_timestamp_ms": 1513100100000, 
+    "longitude": -73.9973273083072, 
+    "latitude": 40.99345831191395, 
+    "spawn_point_id": "9926760031431163904", 
+    "encounter_id": 9926760032944264004
+  }, 
+  {
+    "pokemon_id": 297, 
+    "expiration_timestamp_ms": 1513100349000, 
+    "longitude": -73.99659275105819, 
+    "latitude": 40.992124038071196, 
+    "spawn_point_id": "9926760032370688000", 
+    "encounter_id": 9926760033883788349
+  }, 
+  {
+    "pokemon_id": 107, 
+    "expiration_timestamp_ms": 1513100889000, 
+    "longitude": -73.99585819099369, 
+    "latitude": 40.99263471116366, 
+    "spawn_point_id": "9926760033175994368", 
+    "encounter_id": 9926760034689095257
+  }, 
+  {
+    "pokemon_id": 286, 
+    "expiration_timestamp_ms": 1513100550000, 
+    "longitude": -73.9973273083072, 
+    "latitude": 40.99222834547599, 
+    "spawn_point_id": "9926760031968034816", 
+    "encounter_id": 9926760033481135366
+  }, 
+  {
+    "pokemon_id": 304, 
+    "expiration_timestamp_ms": 1513101042000, 
+    "longitude": -73.99585819099369, 
+    "latitude": 40.99263471116366, 
+    "spawn_point_id": "9926760033175994368", 
+    "encounter_id": 9926760034689095410
+  }, 
+  {
+    "pokemon_id": 247, 
+    "expiration_timestamp_ms": 1513100903000, 
+    "longitude": -73.99512362811402, 
+    "latitude": 40.99253039265835, 
+    "spawn_point_id": "9926760033041776640", 
+    "encounter_id": 9926760034554877543
+  }, 
+  {
+    "pokemon_id": 133, 
+    "expiration_timestamp_ms": 1513100477000, 
+    "longitude": -73.99365449391071, 
+    "latitude": 40.991091762979735, 
+    "spawn_point_id": "9926760035189260288", 
+    "encounter_id": 9926760036702360765
+  }, 
+  {
+    "pokemon_id": 6, 
+    "expiration_timestamp_ms": 1513100217000, 
+    "longitude": -73.9929199225878, 
+    "latitude": 40.99283238281204, 
+    "spawn_point_id": "9926760034115518464", 
+    "encounter_id": 9926760035628618681
+  }, 
+  {
+    "pokemon_id": 371, 
+    "expiration_timestamp_ms": 1513100297000, 
+    "longitude": -73.99365449391071, 
+    "latitude": 40.99293671781079, 
+    "spawn_point_id": "9926760033981300736", 
+    "encounter_id": 9926760035494401033
+  }, 
+  {
+    "pokemon_id": 182, 
+    "expiration_timestamp_ms": 1513100677000, 
+    "longitude": -73.99365449391071, 
+    "latitude": 40.99232173946972, 
+    "spawn_point_id": "9926760033847083008", 
+    "encounter_id": 9926760035360183685
+  }, 
+  {
+    "pokemon_id": 174, 
+    "expiration_timestamp_ms": 1513100686000, 
+    "longitude": -73.9929199225878, 
+    "latitude": 40.990987428927234, 
+    "spawn_point_id": "9926760035055042560", 
+    "encounter_id": 9926760036568143246
+  }, 
+  {
+    "pokemon_id": 311, 
+    "expiration_timestamp_ms": 1513100556000, 
+    "longitude": -73.99218534845119, 
+    "latitude": 40.98903807712226, 
+    "spawn_point_id": "9926760037202526208", 
+    "encounter_id": 9926760038715626764
+  }, 
+  {
+    "pokemon_id": 253, 
+    "expiration_timestamp_ms": 1513100441000, 
+    "longitude": -73.99365449391071, 
+    "latitude": 40.98863173077088, 
+    "spawn_point_id": "9926760036531437568", 
+    "encounter_id": 9926760038044538009
+  }, 
+  {
+    "pokemon_id": 74, 
+    "expiration_timestamp_ms": 1513100659000, 
+    "longitude": -73.99365449391071, 
+    "latitude": 40.99047676483099, 
+    "spawn_point_id": "9926760035860348928", 
+    "encounter_id": 9926760037373449587
+  }, 
+  {
+    "pokemon_id": 451, 
+    "expiration_timestamp_ms": 1513100754000, 
+    "longitude": -73.99438906241959, 
+    "latitude": 40.98996608810865, 
+    "spawn_point_id": "9926760036128784384", 
+    "encounter_id": 9926760037641885138
+  }, 
+  {
+    "pokemon_id": 139, 
+    "expiration_timestamp_ms": 1513100262000, 
+    "longitude": -73.99071619173834, 
+    "latitude": 40.989444394038124, 
+    "spawn_point_id": "9926760038142050304", 
+    "encounter_id": 9926760039655150566
+  }, 
+  {
+    "pokemon_id": 305, 
+    "expiration_timestamp_ms": 1513100486000, 
+    "longitude": -73.98998160916284, 
+    "latitude": 40.98995504221887, 
+    "spawn_point_id": "9926760039752663040", 
+    "encounter_id": 9926760041265763526
+  }, 
+  {
+    "pokemon_id": 403, 
+    "expiration_timestamp_ms": 1513100872000, 
+    "longitude": -73.99071619173834, 
+    "latitude": 40.989444394038124, 
+    "spawn_point_id": "9926760038142050304", 
+    "encounter_id": 9926760039655151176
+  }, 
+  {
+    "pokemon_id": 222, 
+    "expiration_timestamp_ms": 1513100940000, 
+    "longitude": -73.98924702377508, 
+    "latitude": 40.98800565314033, 
+    "spawn_point_id": "9926760039215792128", 
+    "encounter_id": 9926760040728893068
+  }, 
+  {
+    "pokemon_id": 440, 
+    "expiration_timestamp_ms": 1513100751000, 
+    "longitude": -73.99071619173834, 
+    "latitude": 40.98882938394736, 
+    "spawn_point_id": "9926760038813138944", 
+    "encounter_id": 9926760040326239695
+  }, 
+  {
+    "pokemon_id": 469, 
+    "expiration_timestamp_ms": 1513100113000, 
+    "longitude": -73.98998160916284, 
+    "latitude": 40.99180001212485, 
+    "spawn_point_id": "9926760041765928960", 
+    "encounter_id": 9926760043279029073
+  }, 
+  {
+    "pokemon_id": 401, 
+    "expiration_timestamp_ms": 1513100654000, 
+    "longitude": -73.99145077150125, 
+    "latitude": 40.99139373524386, 
+    "spawn_point_id": "9926760040826404864", 
+    "encounter_id": 9926760042339505518
+  }, 
+  {
+    "pokemon_id": 277, 
+    "expiration_timestamp_ms": 1513100495000, 
+    "longitude": -73.99145077150125, 
+    "latitude": 40.992008719241255, 
+    "spawn_point_id": "9926760041229058048", 
+    "encounter_id": 9926760042742158543
+  }, 
+  {
+    "pokemon_id": 250, 
+    "expiration_timestamp_ms": 1513100672000, 
+    "longitude": -73.98924702377508, 
+    "latitude": 40.990465677773365, 
+    "spawn_point_id": "9926760040021098496", 
+    "encounter_id": 9926760041534199168
+  }, 
+  {
+    "pokemon_id": 17, 
+    "expiration_timestamp_ms": 1513101032000, 
+    "longitude": -73.98998160916284, 
+    "latitude": 40.99241498888884, 
+    "spawn_point_id": "9926760041631711232", 
+    "encounter_id": 9926760043144812264
+  }, 
+  {
+    "pokemon_id": 110, 
+    "expiration_timestamp_ms": 1513100897000, 
+    "longitude": -73.98998160916284, 
+    "latitude": 40.99118502875846, 
+    "spawn_point_id": "9926760040289533952", 
+    "encounter_id": 9926760041802634849
+  }
+]
