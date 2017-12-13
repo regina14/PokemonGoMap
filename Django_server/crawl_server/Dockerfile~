@@ -1,0 +1,9 @@
+FROM ubuntu:14.04
+MAINTAINER Regina
+
+# Level 1
+RUN apt-get update -y && apt-get install -y libpq-dev \
+                                            python-dev \
+                                            ssh\
+                                            python-setuptools
+

@@ -1,0 +1,8 @@
+CREATE TABLE POKEMON_MAP(
+       encounter_id DOUBLE PRECISION,
+       pokemon_id   INT,
+       expire	    DOUBLE PRECISION,
+       latitude     DOUBLE PRECISION,
+       longitude    DOUBLE PRECISION,
+       PRIMARY KEY (encounter_id)
+)
