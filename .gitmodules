@@ -1,0 +1,6 @@
+[submodule "Query_server/pokemon_map/map/mock_pgoapi"]
+	path = Query_server/pokemon_map/map/mock_pgoapi
+	url = https://github.com/chenditc/mock_pgoapi.git
+[submodule "pokemon_map/mock_pgoapi"]
+	path = pokemon_map/mock_pgoapi
+	url = https://github.com/chenditc/mock_pgoapi.git

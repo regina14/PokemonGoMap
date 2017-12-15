@@ -15,10 +15,16 @@ def break_down_area_to_cell(north, south, west, east):
     p1 = s2sphere.LatLng.from_degrees(north, west)
     p2 = s2sphere.LatLng.from_degrees(south, east)
     rect = s2sphere.LatLngRect.from_point_pair(p1, p2)
-    if rect.area() * 1000 * 1000 * 100 > 50:
+    area = rect.area()
+
+    if (area * 1000 * 1000 * 1000 > 485):
         return result
+    
     cell_ids = region.get_covering(s2sphere.LatLngRect.from_point_pair(p1, p2))
     result += [cell_id.id() for cell_id in cell_ids]
+    
+    print result
+    print len(result)
     return result
 
 def get_position_from_cell_id(cell_id):
@@ -44,18 +50,17 @@ def scan_point(cell_id):
 
 def scan_area(north, south, west, east):
     result = []
-
-    # 1. Find all point to search with the area
+    
     cell_ids = break_down_area_to_cell(north, south, west, east)
 
-    # 2. Search each point, get result from api
     work_queue = boto3.resource('sqs', region_name='us-west-2').get_queue_by_name(QueueName=SQS_QUEUE_NAME)
+
     for cell_id in cell_ids:
-        print cell_id
-        # 3. Send request to elastic beanstalk worker server
+#        print cell_id
         work_queue.send_message(MessageBody=json.dumps({"cell_id":cell_id})) 
+        
     return result
 
 if __name__ == "__main__":
-   # print json.dumps(scan_area(41, 40.99, -74, -73.99), indent=2)
     print json.dumps(scan_area(41, 40.79, -74, -73.99), indent=2)
+    #print json.dumps(scan_area(33, 32, -111, -110), indent=2)
