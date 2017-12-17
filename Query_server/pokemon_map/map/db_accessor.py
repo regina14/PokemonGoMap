@@ -1,16 +1,16 @@
 import psycopg2
 import time
+import os
 
 # INSERT INTO pokemon_map (encounter_id , expire , pokemon_id , latitude , longitude ) VALUES (1,1,1,1,1) O\N CONFLICT (encounter_id) DO NOTHING;
 def query_pokemons_from_db(north, south, west, east):
     # 1. Open connection
-    conn = psycopg2.connect(host = "pokemondb.c2dcrfootdyi.us-west-2.rds.amazonaws.com",
+    conn = psycopg2.connect(host = "beta-pokemon.c2dcrfootdyi.us-west-2.rds.amazonaws.com",
                             port = 5432,
                             user = "regina",
                             password = "12345678",
                             database = "pokemonDB")
-
-    # 2. Execute SQL
+ # 2. Execute SQL
     with conn.cursor() as cur:
         cur.execute("SELECT expire,pokemon_id, latitude, longitude" +
                     " FROM pokemon_map " +

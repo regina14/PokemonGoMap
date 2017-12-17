@@ -1,0 +1,22 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+demo/
+encrpty/
+.Xauthority
+.aws/
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.gnupg/
+.pip/
+.profile
+.psql_history
+.python_history
+.ssh/
+.vim/
+.viminfo
+encrypt/

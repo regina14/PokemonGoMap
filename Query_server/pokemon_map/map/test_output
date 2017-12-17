@@ -1,0 +1,264 @@
+         23388 function calls (23030 primitive calls) in 1.393 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.001    0.001    1.393    1.393 test_query_pokemon.py:1(<module>)
+      100    0.001    0.000    1.368    0.014 db_accessor.py:6(query_pokemons_from_db)
+      100    0.001    0.000    1.111    0.011 __init__.py:85(connect)
+      100    1.098    0.011    1.105    0.011 {psycopg2._psycopg._connect}
+      100    0.244    0.002    0.244    0.002 {method 'execute' of 'psycopg2.extensions.cursor' objects}
+        1    0.000    0.000    0.025    0.025 db_accessor.py:1(<module>)
+        1    0.008    0.008    0.025    0.025 __init__.py:18(<module>)
+      200    0.004    0.000    0.013    0.000 extensions.py:148(make_dsn)
+      100    0.010    0.000    0.010    0.000 {method 'close' of 'psycopg2.extensions.connection' objects}
+       16    0.000    0.000    0.008    0.001 re.py:188(compile)
+       16    0.000    0.000    0.008    0.001 re.py:226(_compile)
+       16    0.000    0.000    0.008    0.000 sre_compile.py:493(compile)
+     1000    0.001    0.000    0.008    0.000 extensions.py:182(_param_escape)
+        1    0.001    0.001    0.007    0.007 decimal.py:116(<module>)
+        1    0.000    0.000    0.006    0.006 extensions.py:12(<module>)
+     1000    0.004    0.000    0.006    0.000 {method 'sub' of '_sre.SRE_Pattern' objects}
+       16    0.000    0.000    0.005    0.000 sre_parse.py:675(parse)
+    58/16    0.000    0.000    0.005    0.000 sre_parse.py:301(_parse_sub)
+    70/16    0.001    0.000    0.005    0.000 sre_parse.py:379(_parse)
+        1    0.000    0.000    0.003    0.003 _json.py:6(<module>)
+        1    0.002    0.002    0.003    0.003 ssl.py:56(<module>)
+        1    0.000    0.000    0.003    0.003 __init__.py:99(<module>)
+        1    0.000    0.000    0.003    0.003 _range.py:3(<module>)
+       16    0.000    0.000    0.003    0.000 sre_compile.py:478(_code)
+     1520    0.001    0.000    0.002    0.000 sre_parse.py:201(get)
+        1    0.000    0.000    0.002    0.002 _range.py:274(RangeCaster)
+     1000    0.001    0.000    0.002    0.000 re.py:271(_subx)
+   114/16    0.001    0.000    0.002    0.000 sre_compile.py:32(_compile)
+     1661    0.001    0.000    0.002    0.000 sre_parse.py:182(__next)
+        1    0.000    0.000    0.002    0.002 decoder.py:2(<module>)
+        2    0.001    0.000    0.001    0.001 collections.py:288(namedtuple)
+     1000    0.001    0.000    0.001    0.000 re.py:251(_compile_repl)
+      200    0.001    0.000    0.001    0.000 {psycopg2._psycopg.parse_dsn}
+       35    0.000    0.000    0.001    0.000 sre_compile.py:178(_compile_charset)
+        1    0.000    0.000    0.001    0.001 scanner.py:2(<module>)
+       35    0.000    0.000    0.001    0.000 sre_compile.py:207(_optimize_charset)
+        1    0.000    0.000    0.001    0.001 encoder.py:2(<module>)
+      400    0.000    0.000    0.001    0.000 <string>:8(__new__)
+3993/3935    0.001    0.000    0.001    0.000 {len}
+        1    0.000    0.000    0.001    0.001 threading.py:1(<module>)
+        1    0.000    0.000    0.001    0.001 numbers.py:6(<module>)
+       16    0.000    0.000    0.001    0.000 sre_compile.py:359(_compile_info)
+        1    0.000    0.000    0.001    0.001 collections.py:1(<module>)
+     1000    0.001    0.000    0.001    0.000 {method 'search' of '_sre.SRE_Pattern' objects}
+      100    0.000    0.000    0.000    0.000 {method 'cursor' of 'psycopg2.extensions.connection' objects}
+     1200    0.000    0.000    0.000    0.000 extensions.py:166(<genexpr>)
+      413    0.000    0.000    0.000    0.000 sre_parse.py:130(__getitem__)
+     1102    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+   146/53    0.000    0.000    0.000    0.000 sre_parse.py:140(getwidth)
+      413    0.000    0.000    0.000    0.000 {built-in method __new__ of type object at 0x919120}
+        1    0.000    0.000    0.000    0.000 socket.py:45(<module>)
+        5    0.000    0.000    0.000    0.000 abc.py:86(__new__)
+        1    0.000    0.000    0.000    0.000 base64.py:3(<module>)
+        2    0.000    0.000    0.000    0.000 __init__.py:71(search_function)
+      358    0.000    0.000    0.000    0.000 sre_parse.py:195(match)
+        1    0.000    0.000    0.000    0.000 decoder.py:17(_floatconstants)
+     1297    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 warnings.py:45(filterwarnings)
+        1    0.000    0.000    0.000    0.000 {method 'decode' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 heapq.py:31(<module>)
+        5    0.000    0.000    0.000    0.000 abc.py:105(register)
+        7    0.000    0.000    0.000    0.000 sre_compile.py:258(_mk_bitmap)
+    29/20    0.000    0.000    0.000    0.000 {issubclass}
+      9/5    0.000    0.000    0.000    0.000 abc.py:148(__subclasscheck__)
+      206    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 {__import__}
+      503    0.000    0.000    0.000    0.000 {isinstance}
+        1    0.000    0.000    0.000    0.000 tz.py:6(<module>)
+      400    0.000    0.000    0.000    0.000 {method 'iteritems' of 'dict' objects}
+      155    0.000    0.000    0.000    0.000 sre_parse.py:138(append)
+      198    0.000    0.000    0.000    0.000 sre_parse.py:126(__len__)
+        1    0.000    0.000    0.000    0.000 decimal.py:506(Decimal)
+        1    0.000    0.000    0.000    0.000 os.py:35(_get_exports_list)
+      229    0.000    0.000    0.000    0.000 {getattr}
+       37    0.000    0.000    0.000    0.000 sre_compile.py:354(_simple)
+       12    0.000    0.000    0.000    0.000 {all}
+      235    0.000    0.000    0.000    0.000 {min}
+        6    0.000    0.000    0.000    0.000 _range.py:281(__init__)
+        2    0.000    0.000    0.000    0.000 codecs.py:77(__new__)
+       22    0.000    0.000    0.000    0.000 sre_parse.py:225(_class_escape)
+        1    0.000    0.000    0.000    0.000 hex_codec.py:70(getregentry)
+        1    0.000    0.000    0.000    0.000 hex_codec.py:8(<module>)
+       14    0.000    0.000    0.000    0.000 _weakrefset.py:58(__iter__)
+        1    0.000    0.000    0.000    0.000 {dir}
+        3    0.000    0.000    0.000    0.000 decimal.py:3782(__init__)
+        1    0.000    0.000    0.000    0.000 threading.py:1090(__init__)
+       54    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       46    0.000    0.000    0.000    0.000 abc.py:89(<genexpr>)
+       14    0.000    0.000    0.000    0.000 sre_parse.py:216(isname)
+      107    0.000    0.000    0.000    0.000 collections.py:329(<genexpr>)
+        6    0.000    0.000    0.000    0.000 _range.py:295(_create_ranges)
+       17    0.000    0.000    0.000    0.000 sre_parse.py:178(__init__)
+       24    0.000    0.000    0.000    0.000 sre_parse.py:257(_escape)
+        6    0.000    0.000    0.000    0.000 decimal.py:515(__new__)
+      289    0.000    0.000    0.000    0.000 {chr}
+       32    0.000    0.000    0.000    0.000 sre_parse.py:72(opengroup)
+       16    0.000    0.000    0.000    0.000 {_sre.compile}
+      100    0.000    0.000    0.000    0.000 {method 'pop' of 'dict' objects}
+      118    0.000    0.000    0.000    0.000 sre_parse.py:90(__init__)
+      139    0.000    0.000    0.000    0.000 {method 'replace' of 'str' objects}
+      100    0.000    0.000    0.000    0.000 {method 'fetchall' of 'psycopg2.extensions.cursor' objects}
+        1    0.000    0.000    0.000    0.000 socket.py:179(_socketobject)
+        1    0.000    0.000    0.000    0.000 threading.py:656(__init__)
+       32    0.000    0.000    0.000    0.000 sre_parse.py:83(closegroup)
+       21    0.000    0.000    0.000    0.000 _weakrefset.py:36(__init__)
+        1    0.000    0.000    0.000    0.000 <string>:1(<module>)
+       32    0.000    0.000    0.000    0.000 sre_compile.py:472(isstring)
+       82    0.000    0.000    0.000    0.000 sre_parse.py:210(isident)
+       95    0.000    0.000    0.000    0.000 sre_compile.py:24(_identityfunction)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:703(parse_template)
+       12    0.000    0.000    0.000    0.000 collections.py:355(<genexpr>)
+       89    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+        2    0.000    0.000    0.000    0.000 threading.py:241(Condition)
+        9    0.000    0.000    0.000    0.000 _weakrefset.py:26(__exit__)
+        2    0.000    0.000    0.000    0.000 __init__.py:49(normalize_encoding)
+        2    0.000    0.000    0.000    0.000 _json.py:116(register_json)
+        1    0.000    0.000    0.000    0.000 numbers.py:34(Complex)
+       37    0.000    0.000    0.000    0.000 sre_parse.py:134(__setitem__)
+      101    0.000    0.000    0.000    0.000 {ord}
+        2    0.000    0.000    0.000    0.000 {repr}
+        1    0.000    0.000    0.000    0.000 threading.py:541(Event)
+        1    0.000    0.000    0.000    0.000 threading.py:560(__init__)
+       12    0.000    0.000    0.000    0.000 _weakrefset.py:70(__contains__)
+       12    0.000    0.000    0.000    0.000 collections.py:353(<genexpr>)
+        6    0.000    0.000    0.000    0.000 _range.py:433(_register)
+       24    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 __future__.py:48(<module>)
+       95    0.000    0.000    0.000    0.000 {method 'isalnum' of 'str' objects}
+       32    0.000    0.000    0.000    0.000 {method 'remove' of 'list' objects}
+       14    0.000    0.000    0.000    0.000 _weakrefset.py:83(add)
+        1    0.000    0.000    0.000    0.000 threading.py:640(Thread)
+        1    0.000    0.000    0.000    0.000 threading.py:575(set)
+        1    0.000    0.000    0.000    0.000 _json.py:155(register_default_json)
+        2    0.000    0.000    0.000    0.000 threading.py:259(__init__)
+        1    0.000    0.000    0.000    0.000 utf_8.py:33(getregentry)
+       35    0.000    0.000    0.000    0.000 {_sre.getlower}
+       69    0.000    0.000    0.000    0.000 {method 'upper' of 'str' objects}
+       37    0.000    0.000    0.000    0.000 abc.py:15(abstractmethod)
+        1    0.000    0.000    0.000    0.000 numbers.py:295(Integral)
+        1    0.000    0.000    0.000    0.000 decimal.py:3763(Context)
+       16    0.000    0.000    0.000    0.000 sre_parse.py:67(__init__)
+       27    0.000    0.000    0.000    0.000 decimal.py:3809(<genexpr>)
+        3    0.000    0.000    0.000    0.000 {method 'match' of '_sre.SRE_Pattern' objects}
+       10    0.000    0.000    0.000    0.000 {range}
+        9    0.000    0.000    0.000    0.000 _weakrefset.py:20(__enter__)
+        1    0.000    0.000    0.000    0.000 <string>:1(Column)
+       14    0.000    0.000    0.000    0.000 {setattr}
+        1    0.000    0.000    0.000    0.000 traceback.py:1(<module>)
+       12    0.000    0.000    0.000    0.000 {method 'extend' of 'list' objects}
+        2    0.000    0.000    0.000    0.000 _json.py:181(_create_json_typecasters)
+       17    0.000    0.000    0.000    0.000 {max}
+       27    0.000    0.000    0.000    0.000 decimal.py:3816(<genexpr>)
+        8    0.000    0.000    0.000    0.000 sre_compile.py:51(fixup)
+        1    0.000    0.000    0.000    0.000 numbers.py:169(Real)
+       32    0.000    0.000    0.000    0.000 {method 'setdefault' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {_struct.unpack}
+        1    0.000    0.000    0.000    0.000 decoder.py:304(__init__)
+        1    0.000    0.000    0.000    0.000 collections.py:26(OrderedDict)
+        1    0.000    0.000    0.000    0.000 threading.py:399(notifyAll)
+        1    0.000    0.000    0.000    0.000 keyword.py:11(<module>)
+       16    0.000    0.000    0.000    0.000 {psycopg2._psycopg.register_type}
+        3    0.000    0.000    0.000    0.000 {hasattr}
+        1    0.000    0.000    0.000    0.000 _json.py:168(register_default_jsonb)
+        1    0.000    0.000    0.000    0.000 <string>:1(DecimalTuple)
+        1    0.000    0.000    0.000    0.000 _range.py:34(Range)
+        1    0.000    0.000    0.000    0.000 socket.py:235(_fileobject)
+        1    0.000    0.000    0.000    0.000 ssl.py:196(SSLSocket)
+        2    0.000    0.000    0.000    0.000 {method 'setter' of 'property' objects}
+        4    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+        9    0.000    0.000    0.000    0.000 _weakrefset.py:52(_commit_removals)
+        9    0.000    0.000    0.000    0.000 _weakrefset.py:16(__init__)
+        1    0.000    0.000    0.000    0.000 collections.py:387(Counter)
+       10    0.000    0.000    0.000    0.000 extensions.py:105(register_adapter)
+        9    0.000    0.000    0.000    0.000 {method '__subclasshook__' of 'object' objects}
+        8    0.000    0.000    0.000    0.000 {psycopg2._psycopg.new_type}
+        2    0.000    0.000    0.000    0.000 {map}
+        1    0.000    0.000    0.000    0.000 hex_codec.py:27(hex_decode)
+        1    0.000    0.000    0.000    0.000 threading.py:372(notify)
+        9    0.000    0.000    0.000    0.000 {method 'remove' of 'set' objects}
+        4    0.000    0.000    0.000    0.000 threading.py:58(__init__)
+        1    0.000    0.000    0.000    0.000 threading.py:1058(_Timer)
+        1    0.000    0.000    0.000    0.000 threading.py:789(_set_ident)
+       10    0.000    0.000    0.000    0.000 {method 'group' of '_sre.SRE_Match' objects}
+        1    0.000    0.000    0.000    0.000 {method 'sort' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 numbers.py:270(Rational)
+       12    0.000    0.000    0.000    0.000 {method '__contains__' of 'frozenset' objects}
+        3    0.000    0.000    0.000    0.000 {thread.allocate_lock}
+        1    0.000    0.000    0.000    0.000 encoder.py:101(__init__)
+        1    0.000    0.000    0.000    0.000 threading.py:299(_is_owned)
+        1    0.000    0.000    0.000    0.000 tz.py:35(FixedOffsetTimezone)
+        1    0.000    0.000    0.000    0.000 threading.py:254(_Condition)
+        8    0.000    0.000    0.000    0.000 {psycopg2._psycopg.new_array_type}
+        1    0.000    0.000    0.000    0.000 threading.py:124(_RLock)
+        1    0.000    0.000    0.000    0.000 encoder.py:70(JSONEncoder)
+        1    0.000    0.000    0.000    0.000 _json.py:55(Json)
+        2    0.000    0.000    0.000    0.000 {thread.get_ident}
+        1    0.000    0.000    0.000    0.000 {binascii.a2b_hex}
+       11    0.000    0.000    0.000    0.000 {method 'startswith' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 hex_codec.py:57(IncrementalDecoder)
+        1    0.000    0.000    0.000    0.000 decimal.py:161(DecimalException)
+        1    0.000    0.000    0.000    0.000 threading.py:551(_Event)
+        1    0.000    0.000    0.000    0.000 decimal.py:5672(_Log10Memoize)
+       12    0.000    0.000    0.000    0.000 {method 'isdigit' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 hex_codec.py:52(IncrementalEncoder)
+        1    0.000    0.000    0.000    0.000 {method 'lstrip' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 hex_codec.py:45(Codec)
+        2    0.000    0.000    0.000    0.000 {sys._getframe}
+        1    0.000    0.000    0.000    0.000 _range.py:441(NumericRange)
+        1    0.000    0.000    0.000    0.000 decimal.py:360(Underflow)
+        1    0.000    0.000    0.000    0.000 decimal.py:311(Subnormal)
+        1    0.000    0.000    0.000    0.000 extensions.py:135(NoneAdapter)
+        1    0.000    0.000    0.000    0.000 socket.py:167(_closedsocket)
+        1    0.000    0.000    0.000    0.000 hex_codec.py:62(StreamWriter)
+        1    0.000    0.000    0.000    0.000 tz.py:107(LocalTimezone)
+        1    0.000    0.000    0.000    0.000 numbers.py:13(Number)
+        1    0.000    0.000    0.000    0.000 decoder.py:274(JSONDecoder)
+        1    0.000    0.000    0.000    0.000 _range.py:226(RangeAdapter)
+        1    0.000    0.000    0.000    0.000 decimal.py:5418(_WorkRep)
+        1    0.000    0.000    0.000    0.000 _range.py:455(DateTimeRange)
+        1    0.000    0.000    0.000    0.000 decimal.py:322(Overflow)
+        1    0.000    0.000    0.000    0.000 threading.py:1088(_MainThread)
+        1    0.000    0.000    0.000    0.000 threading.py:56(_Verbose)
+        1    0.000    0.000    0.000    0.000 decimal.py:3748(_ContextManager)
+        1    0.000    0.000    0.000    0.000 {method 'insert' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 ssl.py:101(CertificateError)
+        1    0.000    0.000    0.000    0.000 _range.py:450(DateRange)
+        1    0.000    0.000    0.000    0.000 __future__.py:74(_Feature)
+        1    0.000    0.000    0.000    0.000 threading.py:514(_BoundedSemaphore)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:710(literal)
+        1    0.000    0.000    0.000    0.000 threading.py:422(_Semaphore)
+        2    0.000    0.000    0.000    0.000 {method 'acquire' of 'thread.lock' objects}
+        2    0.000    0.000    0.000    0.000 {method 'translate' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {method 'lower' of 'str' objects}
+        7    0.000    0.000    0.000    0.000 __future__.py:75(__init__)
+        9    0.000    0.000    0.000    0.000 {method '__subclasses__' of 'type' objects}
+        1    0.000    0.000    0.000    0.000 threading.py:63(_note)
+        1    0.000    0.000    0.000    0.000 {method 'release' of 'thread.lock' objects}
+        1    0.000    0.000    0.000    0.000 decimal.py:5676(__init__)
+        1    0.000    0.000    0.000    0.000 extensions.py:111(SQL_IN)
+        1    0.000    0.000    0.000    0.000 decimal.py:273(Inexact)
+        1    0.000    0.000    0.000    0.000 threading.py:1128(_DummyThread)
+        1    0.000    0.000    0.000    0.000 _range.py:470(NumberRangeAdapter)
+        1    0.000    0.000    0.000    0.000 decimal.py:251(DivisionImpossible)
+        1    0.000    0.000    0.000    0.000 decimal.py:299(Rounded)
+        1    0.000    0.000    0.000    0.000 decimal.py:285(InvalidContext)
+        1    0.000    0.000    0.000    0.000 decimal.py:184(Clamped)
+        1    0.000    0.000    0.000    0.000 decimal.py:235(DivisionByZero)
+        3    0.000    0.000    0.000    0.000 {abs}
+        1    0.000    0.000    0.000    0.000 decimal.py:262(DivisionUndefined)
+        3    0.000    0.000    0.000    0.000 {method 'strip' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 decimal.py:225(ConversionSyntax)
+        1    0.000    0.000    0.000    0.000 threading.py:1097(_set_daemon)
+        1    0.000    0.000    0.000    0.000 decimal.py:196(InvalidOperation)
+        1    0.000    0.000    0.000    0.000 _range.py:460(DateTimeTZRange)
+        1    0.000    0.000    0.000    0.000 hex_codec.py:65(StreamReader)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:85(checkgroup)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+

@@ -1,21 +1,27 @@
 # -*- coding: utf-8 -*-
 import json
+#import redis
 import logging
 from django.shortcuts import render
 from django.http import HttpResponse, JsonResponse
 from db_accessor import add_pokemon_to_db
 from scan_area import scan_point
-# Create your views here.
-logger = logging.getLogger("worker")
+
+#redis_client = redis.StrictRedis(host=os.environ["REDIS_HOST"], port=6379, db=0)
 
 def crawl_point(request):
-    """Request body contains a json format object, which has a key "cell_id"""""
-    logger.info("I'm in add_crawl_point")
-    
+    """Request body contains a json format object, which has a key "cell_id"""""    
     request_obj = json.loads(request.body)
     
     cell_id = request_obj["cell_id"]
-    
+
+    # Check redis, if cell already crawled, skip it
+ #   val = redis_client.get(cell_id)
+  #  if val == "1":
+   #     return JsonResponse("Skipped", safe=False)
+    # If not crawled, set the key in redis, crawl this cell
+    #redis_client.setex(cell_id, 60, "1")
+
     logging.getLogger("crawler").info("crawling cell: {0}".format(cell_id))
     
     pokemons =scan_point(cell_id)

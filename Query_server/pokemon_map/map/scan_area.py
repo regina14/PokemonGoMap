@@ -1,10 +1,11 @@
+import os
 import math
 import json
 import s2sphere
 import boto3
 from mock_pgoapi import mock_pgoapi as pgoapi 
+#SQS_QUEUE_NAME = os.environ['SQS_NAME']
 SQS_QUEUE_NAME = "awseb-e-gtuydyjetz-stack-AWSEBWorkerQueue-PISPQKDWMY5Y"
-
 def break_down_area_to_cell(north, south, west, east):
     """ Return a list of s2 cell id"""
     result = []
