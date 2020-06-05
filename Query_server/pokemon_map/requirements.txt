@@ -1,5 +1,5 @@
 Cheetah==2.4.4
-Django==1.11
+Django==1.11.29
 Markdown==2.6.10
 PySocks==1.5.7
 PyYAML==3.12
