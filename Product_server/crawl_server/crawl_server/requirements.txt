@@ -1,6 +1,6 @@
 Django==1.11
 PySocks==1.5.7
-PyYAML==3.12
+PyYAML==5.4
 argparse==1.2.1
 awsebcli==3.12.1
 blessed==1.14.2
