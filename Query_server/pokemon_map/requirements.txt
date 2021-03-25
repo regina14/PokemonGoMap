@@ -2,7 +2,7 @@ Cheetah==2.4.4
 Django==1.11
 Markdown==2.6.10
 PySocks==1.5.7
-PyYAML==3.12
+PyYAML==5.4
 argparse==1.2.1
 awscli==1.14.9
 awsebcli==3.12.1
